@@ -1,0 +1,75 @@
+header {
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+nav {
+    background-color: red;;
+    color:  white;
+    font-size: 24px;
+    padding: 15px 30px;
+}
+
+
+body { 
+    margin:0px;
+    padding:0px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px
+}
+
+#decks {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #df2935;
+    padding: 10px;
+}
+
+#trucks {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #df2935;
+    padding: 10px;
+}
+
+#wheels {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #df2935;
+    padding: 10px;
+}
+
+#griptapes {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #df2935;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+img {
+    height: 75px;
+}
+
+table {
+    text-align: center;
+    margin-top: 50px; 
+}
+
+footer {
+    display: inline;
+}
+
+iframe {
+    margin-left: 24%;
+    width: 50%;
+    border: 3px solid #df2935;
+    padding: 10px;
+}
